@@ -384,7 +384,7 @@ p = U.sub(1)
 #p = U.sub(1)
 ##
 #######################################
-'''
+
 #### Storing the primal solution #########
 ur0 = interpolate(u.sub(0),M1)
 pr0 = interpolate(p.sub(0),M2)  
